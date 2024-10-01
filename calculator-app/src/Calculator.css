@@ -47,3 +47,9 @@ background-color: red;
   background-color: orange;
   color: white;
 }
+
+#result {
+  background-color: green;
+  color: white;
+  grid-column: span 2;
+}
