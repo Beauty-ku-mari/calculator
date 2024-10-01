@@ -38,8 +38,9 @@ background-color: #bbb;
 }
 
 #clear {
-background-color:orange ;
-color: white;
+background-color: red;
+  color: white;
+  grid-column: span 2;
 }
 
 #backspace {
